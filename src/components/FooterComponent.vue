@@ -12,8 +12,8 @@ export default {
     return {
       links: {
         facebook: "https://www.facebook.com/",
-        github: "https://www.github.com/",
-        linkedin: "https://www.linkedin.com/",
+        github: "https://github.com/Bojannnxxx",
+        linkedin: "https://www.linkedin.com/in/bojan-ninic-63a33ab6/",
       },
     };
   },
