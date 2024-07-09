@@ -55,7 +55,7 @@
         <tr>
           <td>Google</td>
           <td>since 2010</td>
-          <td><a href="google.com"> Google.com </a></td>
+          <td><a href="https://www.google.co.uk/"> Google.com </a></td>
         </tr>
       </tbody>
     </table>
@@ -113,8 +113,6 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* Your CSS styles here */
-
 .gallery-images {
   display: flex;
   justify-content: space-around;
